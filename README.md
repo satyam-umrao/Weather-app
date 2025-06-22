@@ -20,7 +20,7 @@ A clean, modern, and user-friendly weather application that provides accurate we
 
 - **Platform:** Android APK
 - **Languages:** HTML, CSS, JavaScript (if using hybrid frameworks like Cordova/React Native)
-- **API:** OpenWeatherMap API (or your chosen provider)
+- **API:** OpenWeatherMap API 
 
 ## 📥 Download
 
