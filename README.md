@@ -35,7 +35,7 @@ A clean, modern, and user-friendly weather application that provides accurate we
 
 ## 🤝 Contributing
 
-Feel free to fork this repository, submit issues, or create pull requests to help improve the app!
+Submit your issues, or create pull requests to help improve the app!
 
 ---
 
