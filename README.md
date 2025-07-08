@@ -23,8 +23,11 @@ A clean, modern, and user-friendly weather application that provides accurate we
 - **API:** OpenWeatherMap API 
 
 ## 📥 Download
-
-> 👉 [Download the APK](https://your-download-link.com) (Under progress)
+👇 [Download the APK]
+<br><br>
+  <a href='https://github-com.en.uptodown.com/android' title='Download Weather' >
+                <img src='https://stc.utdstc.com/img/mediakit/download-gio-big-b.png' alt='Download Weather'>
+                </a>
 
 ## 💡 How to Use
 
